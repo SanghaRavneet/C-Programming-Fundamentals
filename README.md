@@ -29,7 +29,7 @@ The programs are organized into individual directories, with implementation file
 | ---------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------- |
 | [Date Convert](./date_convert)                 | Converts a date between DDMMYYYY and YYYYMMDD formats               | Integer arithmetic, validation, functions                |
 | [Falling Time](./falling_time)                 | Calculates the time required for an object to fall a given distance | Physics, mathematical functions, rounding                |
-| [Feet to Acres](./feet_to-_cres)               | Converts an area from square feet to acres                          | Unit conversion, constants, floating-point arithmetic    |
+| [Feet to Acres](./feet_to-acres)               | Converts an area from square feet to acres                          | Unit conversion, constants, floating-point arithmetic    |
 | [Hypotenuse](./hypotenuse)                     | Calculates the hypotenuse of a right triangle                       | Pythagorean theorem, `math.h`, floating-point arithmetic |
 | [Leap Year](./leap_year)                       | Determines whether a given year is a leap year                      | Boolean logic, conditionals, modulo                      |
 | [Mow Lawn](./mow_lawn)                         | Calculates the time required to mow a rectangular lawn              | Arithmetic, validation, unit conversion                  |
