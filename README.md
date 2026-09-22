@@ -28,13 +28,13 @@ The programs are organized into individual directories, with implementation file
 | Project                                        | Description                                                         | Key Concepts                                             |
 | ---------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------- |
 | [Date Convert](./date_convert)                 | Converts a date between DDMMYYYY and YYYYMMDD formats               | Integer arithmetic, validation, functions                |
-| [Falling Time](./falling-time)                 | Calculates the time required for an object to fall a given distance | Physics, mathematical functions, rounding                |
-| [Feet to Acres](./feet-to-acres)               | Converts an area from square feet to acres                          | Unit conversion, constants, floating-point arithmetic    |
+| [Falling Time](./falling_time)                 | Calculates the time required for an object to fall a given distance | Physics, mathematical functions, rounding                |
+| [Feet to Acres](./feet_to-_cres)               | Converts an area from square feet to acres                          | Unit conversion, constants, floating-point arithmetic    |
 | [Hypotenuse](./hypotenuse)                     | Calculates the hypotenuse of a right triangle                       | Pythagorean theorem, `math.h`, floating-point arithmetic |
-| [Leap Year](./leap-year)                       | Determines whether a given year is a leap year                      | Boolean logic, conditionals, modulo                      |
-| [Mow Lawn](./mow-lawn)                         | Calculates the time required to mow a rectangular lawn              | Arithmetic, validation, unit conversion                  |
-| [Sum Even](./sum-even)                         | Calculates the sum of all even numbers from 2 to `n`                | Loops, conditionals, accumulation                        |
-| [Sum Partial Harmonic](./sum-partial-harmonic) | Calculates a partial harmonic series                                | Loops, floating-point arithmetic, accumulation           |
+| [Leap Year](./leap_year)                       | Determines whether a given year is a leap year                      | Boolean logic, conditionals, modulo                      |
+| [Mow Lawn](./mow_lawn)                         | Calculates the time required to mow a rectangular lawn              | Arithmetic, validation, unit conversion                  |
+| [Sum Even](./sum_even)                         | Calculates the sum of all even numbers from 2 to `n`                | Loops, conditionals, accumulation                        |
+| [Sum Partial Harmonic](./sum_partial_harmonic) | Calculates a partial harmonic series                                | Loops, floating-point arithmetic, accumulation           |
 
 ## Technical Skills
 
