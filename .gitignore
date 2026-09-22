@@ -1,0 +1,25 @@
+# Compiled C files
+
+*.o
+*.out
+*.exe
+a.out
+
+# Build directories
+
+build/
+bin/
+
+# IDE files
+
+.vscode/
+.idea/
+
+# macOS files
+
+.DS_Store
+__MACOSX/
+
+# Generated documentation
+
+doc/
