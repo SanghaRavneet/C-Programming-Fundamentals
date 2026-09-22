@@ -1,7 +1,7 @@
 # Basic-C-Writing-Compilation-Testing
 # C Programming Fundamentals
 
-A collection of small C programs demonstrating fundamental programming concepts, mathematical problem solving, modular programming, input validation, and documentation.
+A collection of small C programs demonstrating fundamental programming concepts, mathematical problem solving, modular programming, input validation, and documentation. Getting used to using GitHub
 
 ## Overview
 
@@ -76,6 +76,8 @@ The `.c` file contains the implementation of the function, while the `.h` file d
 These projects demonstrate my development of foundational C programming skills, including writing functions, organizing code into modules, working with mathematical operations, and handling invalid inputs.
 
 They form part of my broader Computer Science portfolio and provide examples of my understanding of programming fundamentals in C.
+
+These projects represent an introduction to my GitHub portfolio and are intended to build familiarity with version control, project organization, and documenting my work. They are not representative of the full extent of my programming capabilities!
 
 ## Author
 
