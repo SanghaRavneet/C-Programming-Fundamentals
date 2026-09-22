@@ -27,7 +27,7 @@ The programs are organized into individual directories, with implementation file
 
 | Project                                        | Description                                                         | Key Concepts                                             |
 | ---------------------------------------------- | ------------------------------------------------------------------- | -------------------------------------------------------- |
-| [Date Convert](./date-convert)                 | Converts a date between DDMMYYYY and YYYYMMDD formats               | Integer arithmetic, validation, functions                |
+| [Date Convert](./date_convert)                 | Converts a date between DDMMYYYY and YYYYMMDD formats               | Integer arithmetic, validation, functions                |
 | [Falling Time](./falling-time)                 | Calculates the time required for an object to fall a given distance | Physics, mathematical functions, rounding                |
 | [Feet to Acres](./feet-to-acres)               | Converts an area from square feet to acres                          | Unit conversion, constants, floating-point arithmetic    |
 | [Hypotenuse](./hypotenuse)                     | Calculates the hypotenuse of a right triangle                       | Pythagorean theorem, `math.h`, floating-point arithmetic |
